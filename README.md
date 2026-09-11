@@ -1,6 +1,6 @@
-# 
+# Canadian Citizenship
 
-
+Everything in the official IRCC study guide, Discover Canada, turned into a complete course — history, government, rights and responsibilities, symbols, and every region. Built from the actual government guide (including its own real photos), not a summary of it — reading through this course covers the same ground as reading the book itself.
 
 Part of the [Yaaddi](https://github.com/yaaddi-courses) course catalog — a
 spaced-repetition flashcard course, ready to build and validate with the
