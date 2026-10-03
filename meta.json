@@ -4,7 +4,7 @@
   "description": "Everything in the official IRCC study guide, Discover Canada, turned into a complete course — history, government, rights and responsibilities, symbols, and every region. Built from the actual government guide (including its own real photos), not a summary of it — reading through this course covers the same ground as reading the book itself.",
   "image": "cover.png",
   "file": "canadian-citizenship.zip",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "tags": [
     "canada",
     "citizenship",
@@ -13,6 +13,11 @@
     "government"
   ],
   "changelog": [
+    {
+      "version": "1.2.0",
+      "date": "2026-10-02",
+      "notes": "Added the official exam format for the app's new \"Test yourself\" mode: 20 questions, 30 minutes, 75% to pass, multiple-choice and true/false, like the real citizenship test. No card changes."
+    },
     {
       "version": "1.0.0",
       "date": "2026-09-12",
