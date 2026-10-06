@@ -2834,3 +2834,261 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 21213,22,match_pairs,exercise,21212,Pair every term with its gloss.,Yukon Gold Rush↔Klondike prospecting boom|Canadian Rangers↔Northern reserve unit|Battle of the Atlantic↔Convoy naval campaign|D-Day↔Normandy landings,,,,Each term is paired with its plain-language meaning.
 21214,22,match_pairs,exercise,21212,Which meaning fits each term?,non-confidence↔Vote against government|Official Opposition↔Largest opposition party|Supreme Court of Canada↔Highest court|A mari usque ad mare↔Sea to sea,,,,Each term is paired with its plain-language meaning.
 21215,22,match_pairs,exercise,21212,Connect the terms to what they mean.,A mari usque ad mare↔Sea to sea|Peace Tower↔Parliament clock tower|G8↔Major economies group|Confederation Bridge↔Bridge to PEI,,,,Each term is paired with its plain-language meaning.
+21216,1,multiple_choice,exam,,The test checks your language and:,Canada knowledge|Tax rules|Driving skill,0,,,It assesses knowledge of Canada and language ability.
+21217,1,true_false,exam,,Applicants aged 55 and over must write the test.,,false,,,Adults 55 and older do not need to write it.
+21218,1,true_false,exam,,An application can take several months.,,true,,,Processing often takes months.
+21219,1,multiple_choice,exam,,"After passing, you receive a notice to:",Appear|Travel|Renew,0,,,It invites you to take the Oath.
+21220,1,true_false,exam,,Your family cannot attend the ceremony.,,false,,,Family and friends are encouraged to come.
+21221,1,multiple_choice,exam,,Who must know your current address?,Neighbours|Employers|Call Centre,2,,,Keep it updated during processing.
+21222,1,true_false,exam,,Test questions come from the Citizenship Regulations subjects.,,true,,,All questions follow those subject areas.
+21223,2,multiple_choice,exam,,The Charter became part of the Constitution in:,1215|1982|1867,1,,,It was entrenched in 1982.
+21224,2,multiple_choice,exam,,Magna Carta was signed in:,1982|1763|1215,2,,,It was signed in England.
+21225,2,true_false,exam,,Habeas corpus protects people from unlawful jail.,,true,,,It comes from English common law.
+21226,2,multiple_choice,exam,,Freedom of association protects the right to:,Travel abroad|Form groups|Own land,1,,,Unions and clubs are examples.
+21227,2,multiple_choice,exam,,Mobility rights let citizens:,Skip court|Avoid tax|Live anywhere,2,,,They can move and work in any province.
+21228,2,true_false,exam,,Canadian law treats men and women as equal.,,true,,,All citizens are fully equal under the law.
+21229,2,multiple_choice,exam,,Which is a legal duty of citizens?,Attend church|Obey laws|Join unions,1,,,Rule of law applies to everyone.
+21230,2,true_false,exam,,Jury duty is optional when you are called.,,false,,,It is legally required.
+21231,2,multiple_choice,exam,,Official Language Rights cover English and:,French|Latin|Cree,0,,,Both languages have equal status.
+21232,2,true_false,exam,,The Charter replaces Aboriginal rights agreements.,,false,,,It does not create new rights or replace them.
+21233,2,multiple_choice,exam,,Multiculturalism means Canadians value:,Uniformity|Isolation|Diversity,2,,,It celebrates the variety of cultures.
+21234,3,true_false,exam,,Canadians may serve in the Reserves.,,true,,,"Regular Forces, Reserves and Cadets are options."
+21235,3,multiple_choice,exam,,"Canada's founding peoples are Aboriginal, French and:",Spanish|British|Dutch,1,,,Three peoples shaped Canada's identity.
+21236,3,multiple_choice,exam,,The only officially bilingual province is:,Ontario|Quebec|New Brunswick,2,,,Both languages have official status there.
+21237,3,true_false,exam,,Aboriginal ancestors are believed to have migrated from Asia.,,true,,,They came thousands of years ago.
+21238,3,multiple_choice,exam,,The word Inuit means:,The ice|The people|The north,1,,,It comes from the Inuktitut language.
+21239,3,multiple_choice,exam,,The Métis are people of Aboriginal and:,Asian ancestry|African ancestry|European ancestry,2,,,They are a distinct people.
+21240,3,true_false,exam,,Residential schools operated into the 1980s.,,true,,,They ran from the 1800s to the 1980s.
+21241,3,multiple_choice,exam,,Which king issued the 1763 Proclamation?,Charles II|George III|Edward VII,1,,,It first guaranteed Aboriginal territorial rights.
+21242,3,multiple_choice,exam,,Acadian settlement began in:,1759|1867|1604,2,,,French colonists settled the Maritimes.
+21243,3,true_false,exam,,Most Quebecers descend from French settlers.,,true,,,"From about 8,500 settlers of the 1600s and 1700s."
+21244,3,multiple_choice,exam,,Canada's largest religious affiliation is:,Jewish|Catholic|Buddhist,1,,,Protestant churches follow.
+21245,3,true_false,exam,,Newcomers are expected to embrace the rule of law.,,true,,,Democratic principles are part of becoming Canadian.
+21246,3,multiple_choice,exam,,Black Loyalists were escaped slaves and:,Freed people|Soldiers only|Merchants,0,,,They fled to Canada after the Revolution.
+21247,4,multiple_choice,exam,,Europeans called natives Indians because of a:,War|Mix-up|Treaty,1,,,Explorers thought they reached the East Indies.
+21248,4,multiple_choice,exam,,The Huron-Wendat were farmers and:,Whalers|Miners|Hunters,2,,,They lived in the Great Lakes region.
+21249,4,true_false,exam,,The Sioux followed the bison herds.,,true,,,They were nomadic.
+21250,4,multiple_choice,exam,,The Inuit lived off:,Orchards|Arctic wildlife|Wheat farming,1,,,They survived in the far north.
+21251,4,multiple_choice,exam,,West Coast natives preserved fish by:,Freezing|Salting|Smoking,2,,,They also dried it.
+21252,4,true_false,exam,,European diseases killed many Aboriginal people.,,true,,,They lacked immunity.
+21253,4,multiple_choice,exam,,The Vikings who reached Labrador came from:,Greece|Iceland|Spain,1,,,They colonized Greenland first.
+21254,4,true_false,exam,,L'Anse aux Meadows is a Viking site.,,true,,,It is a World Heritage site.
+21255,4,multiple_choice,exam,,Who mapped Canada's East Coast in 1497?,John Cabot|Cartier|Champlain,0,,,He was the first to draw such a map.
+21256,4,multiple_choice,exam,,Cartier made how many voyages?,Seven|Three|One,1,,,Between 1534 and 1542.
+21257,4,true_false,exam,,Kanata is an Iroquoian word meaning village.,,true,,,Cartier heard it from two guides.
+21258,4,multiple_choice,exam,,Champlain built a fortress in 1608 at:,Quebec|Halifax|Winnipeg,0,,,It is now Quebec City.
+21259,4,multiple_choice,exam,,The Iroquois Confederacy began with how many nations?,Nine|Five|Two,1,,,A sixth joined later.
+21260,4,multiple_choice,exam,,New France's fur trade mainly sought:,Wool|Silk|Beaver pelts,2,,,French and Aboriginal people collaborated.
+21261,4,true_false,exam,,Hudson's Bay Company received its charter in 1670.,,true,,,King Charles II granted it.
+21262,4,multiple_choice,exam,,Wolfe and Montcalm fought near:,Halifax|Quebec|Yorktown,1,,,Britain won in 1759.
+21263,4,multiple_choice,exam,,The Quebec Act of 1774 restored French:,Criminal law|Taxes|Civil law,2,,,British criminal law stayed.
+21264,4,true_false,exam,,Loyalists fled north after the American Revolution.,,true,,,"More than 40,000 came to Canada."
+21265,4,multiple_choice,exam,,Joseph Brant led Loyalist:,Sioux|Mohawks|Cree,1,,,Thousands came into Canada.
+21266,4,multiple_choice,exam,,Sir Guy Carleton defeated an American:,Treaty|Election|Invasion,2,,,He was Governor of Quebec.
+21267,5,multiple_choice,exam,,Canada's first elected assembly sat in:,Halifax|Montreal|Toronto,0,,,It first met in 1758.
+21268,5,multiple_choice,exam,,The Constitutional Act of 1791 divided:,Manitoba|Quebec|Ontario,1,,,It created Upper and Lower Canada.
+21269,5,true_false,exam,,Upper Canada was mainly English-speaking and Protestant.,,true,,,Lower Canada was mainly French and Catholic.
+21270,5,multiple_choice,exam,,Britain abolished slavery empire-wide in:,1833|1791|1867,0,,,The trade was banned in 1807.
+21271,5,multiple_choice,exam,,The Underground Railroad helped slaves:,Travel|Escape|Trade,1,,,Thousands reached Canada.
+21272,5,true_false,exam,,Mary Ann Shadd Cary was a newspaper publisher.,,true,,,She was Canada's first woman publisher.
+21273,5,multiple_choice,exam,,In 1812 the U.S. did what?,Invaded Canada|Signed treaty|Left Britain,0,,,It resented British interference with shipping.
+21274,5,multiple_choice,exam,,Tecumseh allied with:,Wolfe|Isaac Brock|Louis Riel,1,,,Together they captured Detroit.
+21275,5,multiple_choice,exam,,Laura Secord walked to warn:,Brock|Tecumseh|FitzGibbon,2,,,The journey was about 30 km.
+21276,5,true_false,exam,,The Rideau Canal ends at Ottawa.,,true,,,Wellington chose Bytown as its endpoint.
+21277,5,multiple_choice,exam,,Lord Durham wanted the Canadas to be:,Sold|Merged|Divided,1,,,He also wanted self-government.
+21278,5,multiple_choice,exam,,Upper and Lower Canada united in:,1791|1867|1840,2,,,They became the Province of Canada.
+21279,5,true_false,exam,,Nova Scotia won responsible government first.,,true,,,It did so in 1847-48.
+21280,5,multiple_choice,exam,,Confederation talks ran from 1864 to:,1905|1867|1871,1,,,Delegates were called Fathers of Confederation.
+21281,5,multiple_choice,exam,,The 1867 law was the BNA:,Charter|Treaty|Act,2,,,Parliament passed it in 1867.
+21282,5,true_false,exam,,British Columbia was a founding province in 1867.,,false,,,It joined in 1871.
+21283,5,multiple_choice,exam,,Newfoundland and Labrador joined in:,1867|1949|1905,1,,,It was the last province to join.
+21284,5,multiple_choice,exam,,Canada's first prime minister was:,Laurier|Borden|John A. Macdonald,2,,,He took office in 1867.
+21285,5,true_false,exam,,Louis Riel led the Red River uprising of 1869.,,true,,,The Métis had not been consulted.
+21286,6,multiple_choice,exam,,Manitoba became a province in:,1905|1870|1885,1,,,It followed the Red River resistance.
+21287,6,true_false,exam,,Riel took his seat in Parliament.,,false,,,He was elected but never took it.
+21288,6,multiple_choice,exam,,The NWMP was created in:,1873|1867|1914,0,,,It later became the RCMP.
+21289,6,multiple_choice,exam,,Gabriel Dumont was a Métis:,Judge|Military leader|Prime minister,1,,,He led the 1885 resistance.
+21290,6,multiple_choice,exam,,British Columbia joined for a promised:,Canal|Harbour|Railway,2,,,That was the CPR.
+21291,6,true_false,exam,,The CPR was built only by European workers.,,false,,,Chinese workers also built it.
+21292,6,multiple_choice,exam,,The Chinese Head Tax was a:,Income tax|Race-based fee|Property tax,1,,,It discriminated against Chinese immigrants.
+21293,6,multiple_choice,exam,,The CPR's last spike was driven in:,1914|1867|1885,2,,,Donald Smith drove it.
+21294,6,true_false,exam,,Laurier encouraged immigration to the West.,,true,,,Over a million British and Americans came.
+21295,6,multiple_choice,exam,,Many Ukrainians settled in the:,Yukon|Prairies|Maritimes,1,,,"About 170,000 came before 1914."
+21296,7,multiple_choice,exam,,Canadians first fought overseas in the:,Crimean War|Korean War|Boer War,2,,,"Over 7,000 volunteered."
+21297,7,multiple_choice,exam,,Vimy Ridge was captured in:,1917|1914|1939,0,,,It was in April.
+21298,7,true_false,exam,,Ukrainian men were interned as enemy aliens.,,true,,,This happened from 1914 to 1920.
+21299,7,multiple_choice,exam,,Arthur Currie commanded the:,Navy|Air Force|Canadian Corps,2,,,He led it in 1918.
+21300,7,multiple_choice,exam,,World War I ended in:,1918|1914|1945,0,,,The armistice came in November.
+21301,7,multiple_choice,exam,,Emily Stowe founded the women's:,Army corps|Suffrage movement|Labour union,1,,,She led it in Canada.
+21302,7,multiple_choice,exam,,Agnes Macphail was the first woman:,Governor General|Premier|MP,2,,,She was elected in 1921.
+21303,7,true_false,exam,,Quebec women gained the provincial vote in 1940.,,true,,,It was the last province.
+21304,7,multiple_choice,exam,,The poppy honours war:,Treaties|Sacrifices|Victories,1,,,It is worn on Remembrance Day.
+21305,7,multiple_choice,exam,,John McCrae wrote a famous:,Novel|Anthem|Poem,2,,,It is a famous war poem.
+21306,7,multiple_choice,exam,,The Bank of Canada was founded in:,1934|1867|1982,0,,,It manages money.
+21307,7,true_false,exam,,The Great Depression followed the 1929 crash.,,true,,,The stock market crashed that year.
+21308,7,multiple_choice,exam,,Canadians were defeated in 1941 at:,Vimy|Halifax|Hong Kong,2,,,WWII early battle.
+21309,7,multiple_choice,exam,,BCATP trained Allied:,Aircrew|Nurses|Sailors,0,,,"Over 130,000 trained in Canada."
+21310,7,true_false,exam,,The RCN fought in the Battle of the Atlantic.,,true,,,It was the navy's finest hour.
+21311,8,multiple_choice,exam,,The Canada Health Act ensures:,Free housing|Pensions|Basic coverage,2,,,Basic medical care is covered.
+21312,8,true_false,exam,,The Canada Pension Plan began in 1965.,,true,,,Quebec has its own plan.
+21313,8,multiple_choice,exam,,NATO is a military:,Court|Alliance|Union,1,,,Canada was a founding member.
+21314,8,multiple_choice,exam,,NORAD is a joint air:,Trade zone|Police force|Defence command,2,,,Canada and the U.S. share it.
+21315,8,multiple_choice,exam,,Quebec's 1960s change was called the:,Quiet Revolution|Great Depression|Boom,0,,,Rapid social change.
+21316,8,true_false,exam,,Quebec voted to leave Canada in 1980.,,false,,,Sovereignty was defeated.
+21317,8,multiple_choice,exam,,The Official Languages Act dates from:,1867|1982|1969,2,,,It guarantees French and English services.
+21318,8,multiple_choice,exam,,Japanese Canadians gained the vote in:,1948|1920|1960,0,,,After the war.
+21319,8,multiple_choice,exam,,Aboriginal people gained the federal vote in:,1982|1960|1948,1,,,A late step in voting rights.
+21320,8,true_false,exam,,Canada welcomed Hungarian refugees in 1956.,,true,,,"About 37,000 came."
+21321,8,multiple_choice,exam,,Vietnamese refugees fled because of the:,Vietnam War|Cold War|Gulf War,0,,,"Over 50,000 came to Canada."
+21322,8,multiple_choice,exam,,The 1920 painters' group had how many?,Twelve|Seven|Three,1,,,Emily Carr painted West Coast scenes.
+21323,8,multiple_choice,exam,,James Naismith invented:,Hockey|Lacrosse|Basketball,2,,,He invented it in 1891.
+21324,8,multiple_choice,exam,,Terry Fox ran to raise money for:,Cancer research|Schools|Hospitals only,0,,,His run began in 1980.
+21325,8,true_false,exam,,Rick Hansen toured the world in a wheelchair.,,true,,,The tour began in 1985.
+21326,8,multiple_choice,exam,,The CFL championship trophy is the:,Stanley Cup|Vanier Cup|Grey Cup,2,,,Canadian football's final prize.
+21327,8,multiple_choice,exam,,Banting and Best discovered:,Insulin|Penicillin|X-rays,0,,,Their work treated diabetes.
+21328,8,multiple_choice,exam,,Bombardier invented the:,Pacemaker|Snowmobile|Telephone,1,,,He was from Quebec.
+21329,8,multiple_choice,exam,,Sandford Fleming proposed standard:,Light bulbs|Radios|Time zones,2,,,A Canadian invention.
+21330,8,true_false,exam,,The Canadarm is used in space.,,true,,,Canada has used it since 1989.
+21331,8,multiple_choice,exam,,The BlackBerry came from:,Nortel|Research In Motion|Bell,1,,,A Canadian firm.
+21332,8,true_false,exam,,Bell conceived the telephone in Canada.,,true,,,He conceived it there.
+21333,9,multiple_choice,exam,,Canada is a federal state and a parliamentary:,Democracy|Empire|Republic,0,,,It is also a constitutional monarchy.
+21334,9,multiple_choice,exam,,The BNA Act divided federal and provincial:,Capitals|Powers|Borders,1,,,It first defined them.
+21335,9,multiple_choice,exam,,Which is a federal responsibility?,Schools|Hospitals|Defence,2,,,Provinces handle education.
+21336,9,true_false,exam,,Education is a provincial responsibility.,,true,,,Provinces run their own schools.
+21337,9,multiple_choice,exam,,"Parliament has the Sovereign, Senate and:",Courts|Commons|Cabinet,1,,,Those are its three parts.
+21338,9,true_false,exam,,A bill needs royal assent to become law.,,true,,,It is the final step.
+21339,9,multiple_choice,exam,,A province's Lieutenant Governor represents the:,Sovereign|Premier|Senate,0,,,The Governor General appoints this officer.
+21340,9,multiple_choice,exam,,A province's head of government is the:,Governor|Premier|Mayor,1,,,It is like the Prime Minister.
+21341,9,true_false,exam,,Senators serve until age 75.,,true,,,They are appointed.
+21342,9,multiple_choice,exam,,Commons members are traditionally elected every:,Four years|Two years|Eight years,0,,,Elections are held at least that often.
+21343,9,multiple_choice,exam,,Who appoints the Governor General?,Voters|The Sovereign|The Premier,1,,,On the Prime Minister's advice.
+21344,9,true_false,exam,,Canada's Head of State is a prime minister.,,false,,,The Head of State is the Sovereign.
+21345,9,multiple_choice,exam,,Quebec's elected representatives are called:,MNAs|MPs|MLAs,0,,,National Assembly members.
+21346,9,multiple_choice,exam,,Voting begins at what age?,21|18|16,1,,,Citizens may vote from 18.
+21347,9,true_false,exam,,"The three levels are federal, provincial and municipal.",,true,,,Territories are included with provinces.
+21348,10,multiple_choice,exam,,A riding is another name for a:,District|Province|Party,0,,,It is an electoral district.
+21349,10,multiple_choice,exam,,Canada has how many electoral districts?,435|308|150,1,,,Each elects one MP.
+21350,10,multiple_choice,exam,,Federal election day is the third Monday of:,January|July|October,2,,,It is fixed by law.
+21351,10,true_false,exam,,The Prime Minister can request early elections.,,true,,,A request goes to the Governor General.
+21352,10,multiple_choice,exam,,Which agency produces the voters' lists?,Parliament|Elections Canada|Statistics Canada,1,,,It runs federal elections.
+21353,10,multiple_choice,exam,,A voter information card shows:,Your party|Your taxes|Where,2,,,It tells you where to vote.
+21354,10,true_false,exam,,Canadian law guarantees a secret ballot.,,true,,,Nobody can see how you vote.
+21355,10,multiple_choice,exam,,You may vote early at:,Libraries only|Advance polls|Banks,1,,,They open before election day.
+21356,10,multiple_choice,exam,,You mark your ballot with an:,Check|Signature|X,2,,,Circle the candidate's name.
+21357,10,true_false,exam,,A minority government holds under half the seats.,,true,,,It needs other parties' support.
+21358,10,multiple_choice,exam,,Losing a confidence vote leads to a new:,Constitution|Election|Senate,1,,,The government must resign.
+21359,10,multiple_choice,exam,,The largest opposition party is called:,Cabinet|Minority|Loyal Opposition,2,,,It is the official opposition.
+21360,10,true_false,exam,,Cabinet ministers are mostly MPs.,,true,,,They usually come from the Commons.
+21361,10,multiple_choice,exam,,Local councils pass:,Charters|By-laws|Statutes,1,,,They are municipal laws.
+21362,10,multiple_choice,exam,,The federal representative in a territory is the:,Premier|Governor|Commissioner,2,,,Territories have a Commissioner.
+21363,10,multiple_choice,exam,,A provincial elected member may be called:,MLA|MP|Senator,0,,,Member of the Legislative Assembly.
+21364,10,true_false,exam,,Snow removal is a municipal duty.,,true,,,Cities also run transit.
+21365,11,multiple_choice,exam,,An accused person is presumed:,Guilty|Silent|Innocent,2,,,It is a legal principle.
+21366,11,multiple_choice,exam,,The highest court in Canada is the:,Supreme Court|Federal Court|Tax Court,0,,,It is the final court of appeal.
+21367,11,true_false,exam,,Small claims courts handle small civil sums.,,true,,,They are specialized provincial courts.
+21368,11,multiple_choice,exam,,Lady Justice's blindfold stands for:,Secrecy|Mercy|Impartiality,2,,,Justice does not favour anyone.
+21369,11,multiple_choice,exam,,Ontario and Quebec have their own:,Provincial police|Armies|Mints,0,,,The RCMP serves elsewhere.
+21370,11,true_false,exam,,"Canadian laws apply to everyone, including judges.",,true,,,The rule of law covers all.
+21371,11,multiple_choice,exam,,Legal aid helps people who cannot afford a:,Passport|Licence|Lawyer,2,,,It is a public service.
+21372,11,multiple_choice,exam,,The RCMP enforces:,Federal laws|Municipal by-laws|School rules,0,,,It is the national police.
+21373,11,true_false,exam,,Courts exist to settle disputes.,,true,,,That is their main role.
+21374,11,multiple_choice,exam,,Who makes Canada's laws?,Judges|Police|Elected representatives,2,,,Parliament and legislatures.
+21375,12,multiple_choice,exam,,The best-known Canadian symbol is the:,Maple leaf|Moose|Polar bear,0,,,It appears on the flag.
+21376,12,multiple_choice,exam,,The current flag was first raised in:,1982|1965|1867,1,,,It replaced the Red Ensign.
+21377,12,true_false,exam,,Red and white have been official colours since 1921.,,true,,,They came with the coat of arms.
+21378,12,multiple_choice,exam,,Canada's motto is A Mari Usque:,Ad Mare|Ad Astra|Ad Lib,0,,,From sea to sea.
+21379,12,multiple_choice,exam,,The national winter sport is:,Skiing|Ice hockey|Curling,1,,,The Stanley Cup honours it.
+21380,12,multiple_choice,exam,,The national summer sport is:,Baseball|Soccer|Lacrosse,2,,,It is an Aboriginal game.
+21381,12,true_false,exam,,O Canada was proclaimed the anthem in 1980.,,true,,,It was first sung earlier.
+21382,12,multiple_choice,exam,,Victoria Day marks the Sovereign's:,Wedding|Birthday|Coronation,1,,,It is in May.
+21383,12,multiple_choice,exam,,The Victoria Cross is the highest:,Salary|Rank|Honour,2,,,It is for bravery.
+21384,12,true_false,exam,,The beaver appears on the five-cent coin.,,true,,,The HBC first used it as a symbol.
+21385,12,multiple_choice,exam,,The Order of Canada began in:,1982|1967|1867,1,,,It honours achievement.
+21386,12,multiple_choice,exam,,The Mace represents Parliament's:,Wealth|History|Authority,2,,,It sits in the Commons.
+21387,12,true_false,exam,,The Snowbirds are an air demonstration team.,,true,,,A military display squadron.
+21388,13,multiple_choice,exam,,"NAFTA covered the U.S., Canada and:",Cuba|Mexico|Brazil,1,,,It began in 1994.
+21389,13,multiple_choice,exam,,Most Canadian jobs are in:,Mining|Farming|Services,2,,,Over 75% of workers.
+21390,13,true_false,exam,,Most Canadian exports go south.,,true,,,Over three-quarters go to the U.S.
+21391,13,multiple_choice,exam,,Banking and health care are:,Factories|Service industries|Resource industries,1,,,Services provide most jobs.
+21392,13,multiple_choice,exam,,"Forestry, fishing and mining are:",Manufacturing|Services|Natural resources,2,,,They shaped Canada's history.
+21393,13,true_false,exam,,Automobiles are made by manufacturing industries.,,true,,,So are machinery and electronics.
+21394,13,multiple_choice,exam,,The Peace Arch stands at the Canada-U.S. border near:,Buffalo|Blaine|Detroit,1,,,It symbolizes friendly ties.
+21395,13,multiple_choice,exam,,The Canada-U.S. border is the world's longest:,Mountain|Frozen|Undefended,2,,,It is long and peaceful.
+21396,14,multiple_choice,exam,,Newfoundland and Labrador lie farthest:,East|West|North,0,,,They face the Atlantic.
+21397,14,multiple_choice,exam,,Canada's smallest province is:,Ontario|P.E.I.|Nova Scotia,1,,,Anne of Green Gables is set there.
+21398,14,true_false,exam,,P.E.I. is the birthplace of Confederation.,,true,,,Talks were held there in 1864.
+21399,14,multiple_choice,exam,,The Bay of Fundy has the highest:,Tides|Waves|Winds,0,,,It is in Nova Scotia.
+21400,14,multiple_choice,exam,,Nova Scotia's capital is:,Fredericton|Halifax|Moncton,1,,,It is also a major port.
+21401,14,true_false,exam,,Fredericton is New Brunswick's capital.,,true,,,Saint John is its largest city.
+21402,14,multiple_choice,exam,,New Brunswick's principal Francophone city is:,Moncton|Halifax|Saint John,0,,,It is an Acadian centre.
+21403,14,multiple_choice,exam,,A bridge links P.E.I. to the:,Newfoundland|Mainland|United States,1,,,It is the Confederation Bridge.
+21404,14,true_false,exam,,Nova Scotia hosts many festivals each year.,,true,,,It has over 700.
+21405,15,multiple_choice,exam,,Central Canada includes Ontario and:,Quebec|Manitoba|Alberta,0,,,Over half of Canadians live there.
+21406,15,multiple_choice,exam,,Quebec's capital is:,Toronto|Quebec City|Montreal,1,,,Montreal is the largest city.
+21407,15,true_false,exam,,Toronto is Canada's largest city.,,true,,,It is also a financial hub.
+21408,15,multiple_choice,exam,,Ontario's capital is:,Toronto|Ottawa|Hamilton,0,,,Ottawa is the national capital.
+21409,15,multiple_choice,exam,,Quebec leads in producing:,Wheat|Hydroelectricity|Oil,1,,,It has abundant fresh water.
+21410,15,true_false,exam,,Montreal is a largely French-speaking city.,,true,,,It is the world's second-largest French-speaking city.
+21411,15,multiple_choice,exam,,Ontario borders how many Great Lakes?,Four|Two|Seven,0,,,Five Great Lakes touch Ontario and the U.S. combined.
+21412,15,multiple_choice,exam,,The largest Great Lake is:,Ontario|Superior|Erie,1,,,It is the largest freshwater lake.
+21413,16,multiple_choice,exam,,Manitoba's largest city is:,Brandon|Regina|Winnipeg,2,,,Portage and Main is there.
+21414,16,multiple_choice,exam,,Saskatchewan's capital is:,Regina|Saskatoon|Calgary,0,,,Saskatoon is its largest city.
+21415,16,true_false,exam,,Saskatchewan has rich uranium deposits.,,true,,,It also has potash.
+21416,16,multiple_choice,exam,,Alberta is famous for its:,Fjords|Glaciers only|Badlands,2,,,Dinosaur fossils are found there.
+21417,16,true_false,exam,,Alberta leads Canada in oil and gas.,,true,,,It also has cattle ranching.
+21418,16,multiple_choice,exam,,Banff National Park began in:,1905|1885|1867,1,,,It is in Alberta.
+21419,16,multiple_choice,exam,,Saskatchewan was once the world's:,Mine|Port|Breadbasket,2,,,Wheat farming is key.
+21420,17,multiple_choice,exam,,The westernmost province is:,British Columbia|Alberta|Yukon,0,,,It lies on the Pacific.
+21421,17,multiple_choice,exam,,B.C.'s capital is:,Kelowna|Victoria|Vancouver,1,,,Vancouver is the largest city.
+21422,17,true_false,exam,,The Port of Vancouver is Canada's busiest.,,true,,,Trade moves through it.
+21423,17,multiple_choice,exam,,The Okanagan Valley is known for:,Wine|Wheat|Coal,0,,,It also grows orchards.
+21424,17,multiple_choice,exam,,B.C.'s climate comes from Pacific:,Currents only|Airstreams|Glaciers,1,,,It is mild on the coast.
+21425,18,multiple_choice,exam,,Yukon's capital is:,Yellowknife|Iqaluit|Whitehorse,2,,,A railway links it to Skagway.
+21426,18,multiple_choice,exam,,Nunavut's capital is:,Iqaluit|Whitehorse|Yellowknife,0,,,Formerly Frobisher Bay.
+21427,18,true_false,exam,,Nunavut was established in 1999.,,true,,,It is mostly Inuit.
+21428,18,multiple_choice,exam,,The Yukon Gold Rush was in the:,1950s|1920s|1890s,2,,,Miners flocked north.
+21429,18,multiple_choice,exam,,Canada's highest peak is Mount:,Logan|Everest|Rainier,0,,,It is in Yukon.
+21430,18,true_false,exam,,The Mackenzie River flows through the N.W.T.,,true,,,It ranks second-longest in North America.
+21431,18,multiple_choice,exam,,Yellowknife is nicknamed the:,Gold city|Ice town|Diamond capital,2,,,Diamonds are mined in the North.
+21432,18,multiple_choice,exam,,Canadian Rangers patrol the:,Arctic|Prairies|Coast,0,,,They serve in remote regions.
+21433,18,true_false,exam,,Northern tundra is a treeless plain.,,true,,,"The North also has long, cold winters."
+21434,18,multiple_choice,exam,,The North is called the land of the:,Northern Lights|Frozen Sea|Midnight Sun,2,,,There is 24-hour daylight in summer.
+21435,19,multiple_choice,exam,,Canada became a country in:,1867|1763|1982,0,,,It was Confederation.
+21436,19,true_false,exam,,The Great Lakes border Ontario.,,true,,,Ontario borders them.
+21437,20,true_false,exam,,The Prime Minister is Canada's Head of State.,,false,,,The Sovereign is.
+21438,21,true_false,exam,,The Supreme Court is part of Parliament.,,false,,,"Parliament has the Sovereign, Senate and Commons."
+21439,1,multiple_choice,exam,,Which activity is recommended for test study?,Guessing|Local classes|Skipping,1,,,Classes and family practice both help.
+21440,1,true_false,exam,,The citizenship test can be given as an interview.,,true,,,It is usually written.
+21441,2,multiple_choice,exam,,Which freedom covers peaceful meetings?,Assembly|Mobility|Language,0,,,People may gather without fear.
+21442,2,true_false,exam,,Voting is a responsibility at every level of government.,,true,,,"Citizens should vote locally, provincially and federally."
+21443,2,multiple_choice,exam,,Helping others can include:,Tax evasion|Idling|Food banks,2,,,Community help builds citizenship.
+21444,3,true_false,exam,,"Aboriginal peoples include First Nations, Métis and Inuit.",,true,,,They are three distinct groups.
+21445,22,multiple_choice,exam,,About how many Anglophones live in Canada?,60 million|18 million|2 million,1,,,Seven million are Francophones.
+21446,4,multiple_choice,exam,,Whom did Champlain ally with?,Iroquois|Vikings|Huron,2,,,He also allied with the Algonquin.
+21447,4,true_false,exam,,The Plains of Abraham battle was won by Britain.,,true,,,It happened in 1759.
+21448,5,true_false,exam,,Slavery was banned in the Empire in 1833.,,true,,,The trade ended in 1807.
+21449,5,multiple_choice,exam,,Sir Leonard Tilley suggested the name:,Republic|Union|Dominion,2,,,It was Dominion of Canada.
+21450,6,multiple_choice,exam,,Louis Riel is the father of:,Manitoba|Alberta|Ontario,0,,,Many see him as a Métis hero.
+21451,7,true_false,exam,,Canadian women could mostly vote federally by 1918.,,true,,,Nurses had the vote in 1917.
+21452,7,multiple_choice,exam,,The Commonwealth grew out of the British:,Navy|Treaty|Empire,2,,,It followed World War I.
+21453,8,true_false,exam,,The snowmobile was invented in Quebec.,,true,,,Joseph-Armand Bombardier built it.
+21454,8,multiple_choice,exam,,Wheelchair racing champion Chantal Petitclerc is:,French|Canadian|Mexican,1,,,A famous para athlete.
+21455,9,multiple_choice,exam,,Cabinet must keep the confidence of the:,Senate|Governor|House,2,,,Or an election follows.
+21456,9,true_false,exam,,Federal and provincial governments share immigration.,,true,,,Agriculture is shared too.
+21457,10,true_false,exam,,You need to be 18 to vote federally.,,true,,,You must also be a citizen.
+21458,10,multiple_choice,exam,,A voter without a card may:,Skip voting|Appeal|Register anyway,2,,,You can still register at the polls.
+21459,11,true_false,exam,,The RCMP is Canada's national police.,,true,,,It also serves some provinces.
+21460,11,multiple_choice,exam,,Lawyers can:,Sentence you|Represent you|Arrest you,1,,,Legal aid helps with costs.
+21461,12,true_false,exam,,French Canadians first adopted the maple leaf.,,true,,,It is now Canada's best-known symbol.
+21462,12,multiple_choice,exam,,The Stanley Cup was donated by Lord:,Stanley|Grey|Durham,0,,,It honours ice hockey.
+21463,13,multiple_choice,exam,,Canada belongs to which group of nations?,Mercosur|G8|G20 only,1,,,It is among the ten largest economies.
+21464,13,true_false,exam,,Niagara is known for ice wine.,,true,,,It is an agriculture example.
+21465,14,multiple_choice,exam,,Saint John is New Brunswick's largest:,City|Lake|Bridge,0,,,It is also a port.
+21466,14,true_false,exam,,Newfoundland was Britain's oldest colony.,,true,,,Fishing was its heritage.
+21467,15,multiple_choice,exam,,Ontario has the most French speakers outside:,Manitoba|Alberta|Quebec,2,,,Francophones live there too.
+21468,15,true_false,exam,,Quebec leads Canada in pulp and paper.,,true,,,It benefits from the Canadian Shield.
+21469,16,multiple_choice,exam,,Winnipeg's French Quarter is:,Gastown|St. Boniface|Yorkville,1,,,Manitoba's Francophone area.
+21470,17,true_false,exam,,British Columbia has hundreds of provincial parks.,,true,,,About six hundred.
+21471,18,multiple_choice,exam,,Inuit art is sold in Canada and:,Worldwide|Quebec only|Nowhere else,0,,,It is highly valued.
+21472,18,true_false,exam,,The territories cover a third of Canada.,,true,,,The North is vast.
+21473,12,true_false,exam,,The Royal Flag of Canada is the Union Jack.,,true,,,It is the Royal Flag.
