@@ -4,7 +4,7 @@
   "description": "Everything in the official IRCC study guide, Discover Canada, turned into a complete course — history, government, rights and responsibilities, symbols, and every region. Built from the actual government guide (including its own real photos), not a summary of it — reading through this course covers the same ground as reading the book itself.",
   "image": "cover.png",
   "file": "canadian-citizenship.zip",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "tags": [
     "canada",
     "citizenship",
@@ -22,6 +22,11 @@
       "version": "1.0.1",
       "date": "2026-10-09",
       "notes": "Glossary: every term now points at one link, so the same word never sends you to two different pages."
+    },
+    {
+      "version": "1.0.2",
+      "date": "2026-11-08",
+      "notes": "Fixed an incorrect answer on one card."
     }
   ],
   "toc": [
